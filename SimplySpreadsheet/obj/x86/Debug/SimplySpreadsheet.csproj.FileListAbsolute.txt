@@ -1,0 +1,5 @@
+E:\Documents\C#\SimplySpreadsheet\SimplySpreadsheet\bin\Debug\SimplySpreadsheet.exe
+E:\Documents\C#\SimplySpreadsheet\SimplySpreadsheet\bin\Debug\SimplySpreadsheet.pdb
+E:\Documents\C#\SimplySpreadsheet\SimplySpreadsheet\obj\x86\Debug\SimplySpreadsheet.exe
+E:\Documents\C#\SimplySpreadsheet\SimplySpreadsheet\obj\x86\Debug\SimplySpreadsheet.pdb
+E:\Documents\C#\SimplySpreadsheet\SimplySpreadsheet\obj\x86\Debug\SimplySpreadsheet.csprojResolveAssemblyReference.cache
